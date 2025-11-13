@@ -1,10 +1,5 @@
-# EduTutor_AI
-I have built an EduTutor AI which is an AI-powered personalized education platform
-
-
 # 🎓 EduTutor AI
-
-**EduTutor AI** is an intelligent web-based learning platform that combines **AI-powered assessments** and **real-time analytics** to deliver personalized education for students and educators.
+I have built an EduTutor AI which is an AI-powered personalized education platform
 
 ---
 
