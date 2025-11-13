@@ -1,5 +1,5 @@
 # 🎓 EduTutor AI
-I have built an EduTutor AI which is an AI-powered personalized education platform
+I have built an EduTutor AI which is an AI-powered personalized education platform.
 
 ---
 
